@@ -27,3 +27,15 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+/*
+A lógica proposicional (usada no seu código) é simples, fácil de implementar e ideal para regras diretas, como comparar o gênero do filme com a preferência do usuário. Porém, ela é limitada: não lida bem com regras complexas ou múltiplas condições.
+
+Já a lógica de predicados é mais flexível e poderosa, permitindo representar relações entre objetos (como filmes, atores e preferências) e fazer inferências automáticas. Em compensação, é mais complexa e exige mais estrutura no código.
+
+Em resumo:
+
+Proposicional = Simples e direta, ideal para casos básicos.
+
+Predicados = Complexa, mas poderosa, ideal para sistemas maiores e mais inteligentes.
+*/
